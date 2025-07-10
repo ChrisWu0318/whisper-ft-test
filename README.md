@@ -1,0 +1,1 @@
+Fine-tuning the Whisper model with Lora, supporting training with untimed data, timed data, and no audio data. It supports acceleration of inference with CTranslate2 and GGML. Note that acceleration of inference supports direct conversion of the original Whisper model and does not necessarily require fine-tuning.
